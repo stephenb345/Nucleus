@@ -1,0 +1,8 @@
+bin/
+atomic/bin/
+**/.DS_Store
+**/*.o
+**/*.a
+**/*.img
+**/*.fd
+.vscode/
