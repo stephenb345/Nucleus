@@ -10,7 +10,7 @@ Nucleus is a Super-modern, Blazing Fast, Monolithic, x86_64 Operating System Ker
 - `make`
 - `clang`
 
-You will also need A UNIX utility set, such as GNU coreutils (This is only required if you are using a non UNIX-like Host, i.e; If you are running OS X - macOS 14 or GNU/Linux, you do not need to do this step).
+You will also need A UNIX utility set, such as GNU coreutils (This is only required if you are using a non UNIX-like Host, i.e; If you are running OS X - macOS 27 or GNU/Linux, you do not need to do this step).
 
 # Booting Nucleus
 
